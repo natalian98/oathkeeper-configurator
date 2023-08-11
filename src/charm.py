@@ -4,7 +4,7 @@
 #
 # Learn more at: https://juju.is/docs/sdk
 
-"""A Juju charm for configuring and integrating Charmed Ory Oathkeeper with downstream applications."""
+"""A Juju charm for configuring Charmed Ory Oathkeeper with downstream applications."""
 
 import logging
 
