@@ -1,0 +1,4 @@
+pytest
+juju
+pytest-operator==0.28.0
+-r requirements.txt
