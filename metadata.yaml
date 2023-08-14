@@ -1,0 +1,11 @@
+# Copyright 2023 Canonical Ltd.
+# See LICENSE file for licensing details.
+
+name: oathkeeper-configurator
+description: |
+  Charmed Oathkeeper Configurator
+summary: |
+  Charm used to configure and integrate Charmed Oathkeeper with downstream applications
+assumes:
+  - juju >= 3.0.2
+  - k8s-api
